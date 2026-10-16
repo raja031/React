@@ -1,2 +1,1 @@
-# React
-React Learning
+This is used for learn React technology
