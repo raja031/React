@@ -1,0 +1,2 @@
+export const RES_LOGO="https://static.vecteezy.com/system/resources/previews/055/128/169/non_2x/modern-restaurant-logo-design-incorporating-stylish-typography-and-food-themed-graphics-for-business-identity-free-vector.jpg";
+export const IMG_URL="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
