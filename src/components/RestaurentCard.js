@@ -3,7 +3,8 @@ import {IMG_URL} from '../utils/constant'
 const RestaurentCard=(props)=>{
 
     const {restData}=props;
-    const {cloudinaryImageId,name,cuisines,avgRating,sla}=restData?.info;
+
+    const {cloudinaryImageId,name,cuisines,avgRating,sla}=restData?.card?.card?.info;
     return(
         <div className="res-card">
             <img className="res-logo" src={IMG_URL+cloudinaryImageId} alt="logo"/>
